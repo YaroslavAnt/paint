@@ -1,2 +1,0 @@
-# paint
-Created with CodeSandbox
